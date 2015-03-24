@@ -1,0 +1,13 @@
+{
+    "name": "cmmarslender/domains-in-site-list",
+    "type": "wordpress-muplugin",
+    "description": "Shows the domain for each site in the sites list table",
+    "authors": [
+        {
+            "name": "Chris Marslender",
+            "email": "chrismarslender@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
