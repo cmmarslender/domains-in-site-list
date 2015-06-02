@@ -5,6 +5,7 @@
  * Version: 1.0
  * Author: Chris Marslender
  * Author URI: http://chrismarslender.com
+ * https://github.com/cmmarslender/domains-in-site-list
  */
 
 /**
